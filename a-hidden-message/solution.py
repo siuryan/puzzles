@@ -1,4 +1,4 @@
-FILENAME = 'some_text.txt'
+FILENAME = 'PUZZLE.txt'
 COUNT_THRESHOLD = 10
 
 def solve():
